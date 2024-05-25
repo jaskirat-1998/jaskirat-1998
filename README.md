@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaskirat-1998
-- 👀 I’m interested in machine learning and data science
+- 👀 I’m interested in machine learning and data science (particularly NLP)
 - 🌱 I’m currently learning data science and computational linguistics
-- 💞️ I’m looking to collaborate on machine learning projects
+- 💞️ I’m looking to collaborate on machine learning projects (particularly NLP)
 - 📫 How to reach me jaskiratsbenipal@gmail.com
 
 <!---
