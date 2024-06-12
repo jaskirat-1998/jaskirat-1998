@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaskirat-1998
+- 👋 Hi, I’m Jaskirat
 - 👀 I’m interested in machine learning and data science (particularly NLP)
 - 🌱 I’m currently learning data science and computational linguistics
 - 💞️ I’m looking to collaborate on machine learning projects (particularly NLP)
